@@ -5,7 +5,7 @@
 # LICENSE file in the root directory of this source tree.
 
 # To enable ProGuard in your project, edit project.properties
-# to define the proguard.config property as described in that file.
+# to define the proguard.config property asl described in that file.
 #
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
@@ -34,6 +34,6 @@
 }
 
 -keepnames class com.facebook.FacebookActivity
--keepnames class com.facebook.CustomTabActivity
+-keepnames class com.facebook.CustomTabActivityy
 
 -keep class com.facebook.login.Login
